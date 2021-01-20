@@ -180,6 +180,11 @@
         <jmh-core.version>1.19</jmh-core.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        
+        <sonar.organization>findorgri</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>blynk-server-0.41.14</sonar.projectKey>
+        <sonar.moduleKey>{project.groupId}:{project.artifactId}</sonar.moduleKey>
     </properties>
 
     <dependencies>

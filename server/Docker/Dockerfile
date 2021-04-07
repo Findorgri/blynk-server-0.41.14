@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:rolling
 MAINTAINER Florian Mauduit <f@lf.je>
 
 #############################################################

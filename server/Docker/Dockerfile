@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:groovy-20210416
 MAINTAINER Florian Mauduit <f@lf.je>
 
 #############################################################

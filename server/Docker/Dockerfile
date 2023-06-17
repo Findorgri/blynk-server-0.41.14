@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 MAINTAINER Florian Mauduit <f@lf.je>
 
 #############################################################
